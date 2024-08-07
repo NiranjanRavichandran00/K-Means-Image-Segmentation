@@ -2,6 +2,28 @@
 
 This repository contains a Python implementation of the K-Means clustering algorithm for image compression. The script reduces the number of colors in an image by clustering similar colors and replacing them with the centroid of the cluster.
 
+## Compressed Image 
+
+### 2 Colors 
+
+![fruits-2](https://github.com/user-attachments/assets/1e243dd5-df75-49bc-842e-18a3d9b8c91a)
+
+### 3 Colors 
+
+![fruits-3](https://github.com/user-attachments/assets/167bd1bb-d159-45e0-a412-5f385b443f96)
+
+### 5 Colors 
+
+![fruits-5](https://github.com/user-attachments/assets/d6867792-1810-417b-9639-f33fe332d94e)
+
+### 10 Colors 
+
+![fruits-10](https://github.com/user-attachments/assets/8f292d25-7d43-4d37-88e5-e5a3acd96083)
+
+### 20 Colors 
+
+![fruits-20](https://github.com/user-attachments/assets/1d1b9d7b-d731-4f7f-aa61-0a8b22b2fd2e)
+
 ## How It Works
 
 1. **Image Loading**: The script reads an input image and converts it into a numpy array.
