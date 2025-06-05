@@ -58,7 +58,7 @@ python kmeans_image_compression.py image.jpg 16
 ```
 This command will read image.jpg, compress it to 16 colors, and save the result as image-16.png in the same directory.
 
-## Implementation Deta
+## Implementation Data
 
 The K-Means algorithm implementation involves:
 
